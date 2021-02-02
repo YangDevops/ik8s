@@ -17,3 +17,4 @@ Python 3.7
 
 
 ## 截图：  
+![1](https://github.com/YangDevops/ik8s/blob/main/images/1.png)
