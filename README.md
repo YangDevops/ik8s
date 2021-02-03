@@ -17,4 +17,8 @@ Python 3.7
 
 
 ## 截图：  
+集群导入  
 ![1](https://github.com/YangDevops/ik8s/blob/main/images/1.png)
+
+webkubectl  
+![2](https://github.com/YangDevops/ik8s/blob/main/images/2.png)
