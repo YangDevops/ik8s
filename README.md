@@ -7,7 +7,7 @@ Python 3.7
 
 ## 功能列表:  
 1.多集群导入  
-2.webkubectl  引用https://github.com/KubeOperator/webkubectl  
+2.webkubectl(kubectl/helm/k9s)  引用https://github.com/KubeOperator/webkubectl  
 3.应用管理（deployment/pod/job/cronjob/daemonset/statefulset）  
 4.服务与路由管理  
 5.配置管理  
